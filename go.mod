@@ -1,6 +1,6 @@
 module github.com/spf13/viper
 
-go 1.17
+go 1.23.0
 
 require (
 	github.com/fsnotify/fsnotify v1.5.4
@@ -10,7 +10,7 @@ require (
 	github.com/pelletier/go-toml v1.9.5
 	github.com/pelletier/go-toml/v2 v2.0.2
 	github.com/sagikazarmark/crypt v0.6.0
-	github.com/spf13/afero v1.8.2
+	github.com/spf13/afero v1.15.0
 	github.com/spf13/cast v1.5.0
 	github.com/spf13/jwalterweatherman v1.1.0
 	github.com/spf13/pflag v1.0.5
@@ -62,7 +62,7 @@ require (
 	golang.org/x/net v0.0.0-20220520000938-2e3eb7b945c2 // indirect
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5 // indirect
 	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/text v0.28.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220517211312-f3a8303e98df // indirect
 	google.golang.org/api v0.81.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
